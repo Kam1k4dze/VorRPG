@@ -22,7 +22,7 @@
 
 ## Команды
 
-`!levelup HP,STR,DEX,ARC count` - увеличивает выбранную характеристику на count
+`!levelup HP,STR,DEX,ARC amount` - увеличивает выбранную характеристику на amount 
 
 `!stats` - показывает ваши характеристики
 
