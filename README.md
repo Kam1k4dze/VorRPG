@@ -1,4 +1,4 @@
-# Вор РПГ 2 beta early access
+# Вор РПГ 2
 
 
 
