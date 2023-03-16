@@ -41,6 +41,7 @@
 
 `!give_vip username` - отдаёт вашу випку username
 
+`!vip_time` - узнать время оканчания вашей випки
 
 `!play name` - `Стримлер пока не настроил, но завтра точно-точно настроит` 
 ![CoolStoryBob](https://static-cdn.jtvnw.net/emoticons/v2/123171/default/dark/1.0)
